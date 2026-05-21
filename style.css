@@ -2,11 +2,17 @@ body { background-color: #ffffff;  }
 h1 { color: #000000;  } 
 p { color: #000000;  }
 
+h2 { color: #000000;  }
+p { color: #000000;  }
 
 h3 { color: #000000;  }
 p { color: #000000;  }
 
-H3 { color: #000000;  }
+h4{ color: #00718d00;  }
 p { color: #000000;  }
 
-h4{ color: #8400ff;  }
+h5 { color: #000000;  }
+p { color: #000000;  }
+
+h6 { color: #000000;  }
+p { color: #000000;  }
